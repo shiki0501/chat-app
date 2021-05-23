@@ -11,40 +11,12 @@
 .side-top{
   height: 100px;
   padding: 0 20px;
-  background-color: #253141;
-  display:flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
-.side-name a{
-  font-size: 16px;
-  color: #fafafa;
-  text-decoration: none;
-}
-
-.side-build a{
-  font-size: 10px;
-  color: deepskyblue;
-  border: 1px solid lightblue;
-  padding: 14px;
-  text-decoration: none;
 }
 
 .side-center{
   background-color: #2f3e51;
   height: calc(100vh - 100px);
   padding: 0 20px;
-  overflow: scroll;
-}
-
-.room{
-  padding: 20px 0 40px;
-}
-
-.room-name a {
-  text-decoration: none;
-  color: white; 
 }
 
 .chat{
